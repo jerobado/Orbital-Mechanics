@@ -1,2 +1,6 @@
+# IDE stuff
 .vscode
 .idea
+
+# Jupyter stuff
+.ipynb_checkpoints
